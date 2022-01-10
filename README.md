@@ -2,7 +2,7 @@
 List of tokens submited by the community
 
 ## To have your token made available in Community tokens, create a PR with your added tokens.
-
+ ### No new tokens.
  ### tokens must be added end of file, 
  ### must have all vars set
  ### must provide official links for us to verify data inputed. No explorer links.
