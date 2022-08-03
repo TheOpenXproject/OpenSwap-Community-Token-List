@@ -7,4 +7,12 @@ export const communitytokens = {
     imgSrc: "https://evoverses.com/evoToken.png", //imageURL
     decimals: 18 //token decimals
   },
+	LOGE: {
+    Symbol: "LOGE", //token symbol
+    name: "Logecoin", //token name
+    oneAddress: "one1rsyxn20wn6rx9z8aff3rg2l739qa4nu5xghfaj", //bech32 address
+    oneZeroxAddress: "0x1c0869a9ee9e866288Fd4A62342BFe8941DACf94", //hex address (0x)
+    imgSrc: "https://uploads-ssl.webflow.com/60ad000b682e9f22e6aa457c/62040a8c496ca877fb32b8f7_Logecoin%20128.png", //imageURL
+    decimals: 18 //token decimals
+  },
 }
